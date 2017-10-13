@@ -1,2 +1,2 @@
 # Sequencing-Problem
-To automate the process of sequencing of jobs among the given machines
+A C++ program to automate the process of sequencing of jobs among the given machines(a very famous problem in Operations Research). It takes the number of machines, the number of jobs and the time taken by each machine to complete each job as its input. After computation, it outputs the optimal job order sequence, the total time taken for all the jobs to be completed, the idle time of each machine and the total idle time. It works for 'm' machines and 'n' jobs, where m>1 and n>0. It works on the conditions specified by Johnson's  Law.
